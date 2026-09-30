@@ -1,0 +1,75 @@
+Week 6: Web Security & Vulnerability Testing (VAPT Basics)
+
+Objective:
+
+ Understand common web vulnerabilities and perform basic
+ vulnerability testing using tools.
+
+Task 1: Study OWASP 
+Top 10
+
+Learn about:
+
+SQL Injection
+XSS (Cross-Site Scripting)
+Broken Authentication
+Security Misconfiguration
+📌 Prepare short notes (1–2 pages each)
+
+Task 2: Install & Setup Tools
+
+Burp Suite (Community Edition)
+OWASP ZAP
+DVWA (Damn Vulnerable Web Application)
+👉 Setup DVWA using XAMPP or Docker
+
+Task 3: Perform Testing (DVWA)
+
+Test SQL Injection
+Test XSS (Stored & Reflected)
+Capture requests in Burp Suite
+
+📌 Take screenshots of:
+Payloads used
+Results/output
+Burp request & response
+
+Task 4: Scan Using OWASP ZAP
+
+Run automated scan on DVWA or test site
+Identify vulnerabilities
+Export scan report
+
+Task 5: Project Report
+Create a 10–15 page 
+report including:
+
+Introduction to VAPT
+Tools used
+Testing process
+Screenshots
+Findings & Risk Levels
+Mitigation methods
+
+Task 6: PPT
+6–10 slides
+Explain testing, tools, vulnerabilities & prevention
+
+Task 7: GitHub Upload
+Upload:
+Report (PDF)
+PPT
+Screenshots
+Notes
+
+Important Dates
+📅 Submission Deadline: 30th September
+
+ 📩 Submission Form Shared On: 28th September
+
+Bonus (Optional)
+Test on:
+
+ testphp.vulnweb.com
+
+Post your learning on LinkedIn
